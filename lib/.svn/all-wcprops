@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svnroot/warpwing/!svn/ver/556/shared/Python
+END
+scope.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/warpwing/!svn/ver/276/shared/Python/scope.py
+END
+ircam.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/warpwing/!svn/ver/21/shared/Python/ircam.py
+END
+pid.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/warpwing/!svn/ver/21/shared/Python/pid.py
+END
+rcthread.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/warpwing/!svn/ver/21/shared/Python/rcthread.py
+END
+gina.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/warpwing/!svn/ver/105/shared/Python/gina.py
+END
+rescale.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/warpwing/!svn/ver/21/shared/Python/rescale.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/warpwing/!svn/ver/96/shared/Python/__init__.py
+END
+logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/warpwing/!svn/ver/21/shared/Python/logger.py
+END
+motetalk.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/warpwing/!svn/ver/556/shared/Python/motetalk.py
+END
+kfstate.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/warpwing/!svn/ver/21/shared/Python/kfstate.py
+END
+ginacmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/warpwing/!svn/ver/96/shared/Python/ginacmd.py
+END
+jsthread.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/warpwing/!svn/ver/303/shared/Python/jsthread.py
+END
+filter.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/warpwing/!svn/ver/21/shared/Python/filter.py
+END
+quaternion.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/warpwing/!svn/ver/21/shared/Python/quaternion.py
+END
